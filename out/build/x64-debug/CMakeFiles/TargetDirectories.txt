@@ -1,0 +1,5 @@
+C:/Users/yildi/OneDrive/Masaüstü/Development/Personal Development/SmileyCounter/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/yildi/OneDrive/Masaüstü/Development/Personal Development/SmileyCounter/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/yildi/OneDrive/Masaüstü/Development/Personal Development/SmileyCounter/out/build/x64-debug/SmileyCounter/CMakeFiles/SmileyCounter.dir
+C:/Users/yildi/OneDrive/Masaüstü/Development/Personal Development/SmileyCounter/out/build/x64-debug/SmileyCounter/CMakeFiles/edit_cache.dir
+C:/Users/yildi/OneDrive/Masaüstü/Development/Personal Development/SmileyCounter/out/build/x64-debug/SmileyCounter/CMakeFiles/rebuild_cache.dir
